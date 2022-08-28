@@ -1,0 +1,20 @@
+{
+  "name": "typescript_playground",
+  "version": "1.0.0",
+  "description": "Personnal project to improve my Typescript skills",
+  "main": "\u001b[D\u001b[D\u001b[C",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patajuade/typescript_playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patajuade/typescript_playground/issues"
+  },
+  "homepage": "https://github.com/Patajuade/typescript_playground#readme"
+}
